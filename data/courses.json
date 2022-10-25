@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Dumbbell Squat",
+      "description": "The squat is the king of all exercises, working over 256 muscles in one movement! From bodybuilders to powerlifters to competitive athletes, the squat is a staple compound exercise and should be in every workout plan." ,
+      "image": "https://thumbs.dreamstime.com/b/dumbbell-squat-exercise-studio-shot-over-white-58992973.jpg",
+      "Age" : "20-30",
+      "Time": 20
+  
+      },
+    {
+      "id": 2,
+      "name": "Barbell Hip Thrust",
+      "description": "The barbell hip thrust is an exercise that is used to build the glute muscles. It will also indirectly target the other muscles of the legs.So,barbell hip thrusts should be included in your workouts." ,
+      "image": "https://www.thebarbell.com/wp-content/uploads/2021/01/how-to-hip-thrust-1.jpeg",
+      "Age" : "20-30",
+      "Time": 30
+  
+      },
+    {
+      "id": 3,
+      "name": "Romanian Deadlift",
+      "description": "The Romanian deadlift, also known as the RDL, is a variation of the conventional deadlift and an exercise used primarily to target the muscles of the hamstrings and glutes." ,
+      "image": "https://t3.ftcdn.net/jpg/03/14/86/44/360_F_314864449_2I1UPPSKY581zGabLxr1lwIoWkiddzVV.jpg",
+      "Age" : "20-30",
+      "Time": 50
+  
+      },
+    {
+      "id": 4,
+      "name": "Incline Dumbbell Curl ",
+      "description": "The incline dumbbell curl is a variation of the dumbbell curl and an exercise used to build bigger biceps.The incline dumbbell curl elongates the negative portion of the dumbbell curl." ,
+      "image": "https://i.ytimg.com/vi/UeleXjsE-98/maxresdefault.jpg",
+      "Age" : "20-30",
+      "Time": 30
+  
+      },
+    {
+      "id": 5,
+      "name": "Machine Chest fly",
+      "description": "The fly machine is ideal for increasing chest strength and muscle mass by targeting the pectoralis muscles.Machine flyes are easier on the joints and provide a more disciplined form than Dumbbell flyes." ,
+      "image": "http://photos.demandstudios.com/getty/article/99/120/513437656_XS.jpg",
+      "Age" : "20-30",
+      "Time": 25
+  
+      },
+    {
+      "id": 6,
+      "name": "Seated cable row",
+      "description": "Seated cable rows increase upper-body strength by activating multiple muscle groups throughout the body, including back muscles like the latissimus dorsi in your middle back  and the lower trapezius." ,
+      "image": "https://legionathletics.com/wp-content/uploads/2022/06/seatedcablerow-2.jpg",
+      "Age" : "20-30",
+      "Time": 20
+  
+      }
+  ]
