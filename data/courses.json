@@ -1,56 +1,50 @@
 [
     {
-      "id": 1,
-      "name": "Dumbbell Squat",
-      "description": "The squat is the king of all exercises, working over 256 muscles in one movement! From bodybuilders to powerlifters to competitive athletes, the squat is a staple compound exercise and should be in every workout plan." ,
-      "image": "https://thumbs.dreamstime.com/b/dumbbell-squat-exercise-studio-shot-over-white-58992973.jpg",
-      "Age" : "20-30",
-      "Time": 20
+      "id": "01",
+      "name": "Introduction To Python Programming",
+      "description": "Python is a dynamic, interpreted language. There are no type declarations of variables, parameters, functions, or methods in source code. This makes the code short and flexible.Python is a widely used general-purpose, high level programming language." ,
+      "image": "https://files.realpython.com/media/Newbie_Watermarked.a9319218252a.jpg",
+      "Price": "20$"
   
       },
     {
-      "id": 2,
-      "name": "Barbell Hip Thrust",
-      "description": "The barbell hip thrust is an exercise that is used to build the glute muscles. It will also indirectly target the other muscles of the legs.So,barbell hip thrusts should be included in your workouts." ,
-      "image": "https://www.thebarbell.com/wp-content/uploads/2021/01/how-to-hip-thrust-1.jpeg",
-      "Age" : "20-30",
-      "Time": 30
+      "id": "02",
+      "name": "Introduction To C Programming",
+      "description": "C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old. C is strongly associated with UNIX, as it was developed to write the UNIX operating system." ,
+      "image": "https://cdnp2.stackassets.com/ea7899f4b3a97995e14734c448cbebb5c3653318/store/5e57580c15b87b98c78bb0becec5dac0c95807a0a7ff53406d145fb98bdc/sale_9382_primary_image_wide.jpg",
+      "Price": "10$"
   
       },
     {
-      "id": 3,
-      "name": "Romanian Deadlift",
-      "description": "The Romanian deadlift, also known as the RDL, is a variation of the conventional deadlift and an exercise used primarily to target the muscles of the hamstrings and glutes." ,
-      "image": "https://t3.ftcdn.net/jpg/03/14/86/44/360_F_314864449_2I1UPPSKY581zGabLxr1lwIoWkiddzVV.jpg",
-      "Age" : "20-30",
-      "Time": 50
+      "id": "03",
+      "name": "Fundamentals of C++",
+      "description": "Launch your journey as a developer with this comprehensive course that provides an in-depth learning experience with the powerful, fast, and popular object-oriented C++ programming language from scratch." ,
+      "image": "https://i.ytimg.com/vi/RsOEfAYIr0U/maxresdefault.jpg",
+      "Price": "30$"
   
       },
     {
-      "id": 4,
-      "name": "Incline Dumbbell Curl ",
-      "description": "The incline dumbbell curl is a variation of the dumbbell curl and an exercise used to build bigger biceps.The incline dumbbell curl elongates the negative portion of the dumbbell curl." ,
-      "image": "https://i.ytimg.com/vi/UeleXjsE-98/maxresdefault.jpg",
-      "Age" : "20-30",
-      "Time": 30
+      "id": "04",
+      "name": "Programming and Data Structure",
+      "description": "A computer program is a collection of instructions to perform a specific task. For this, a computer program may need to store data, retrieve data, and perform computations on the data. A data structure is a named location that can be used to store and organize data." ,
+      "image": "https://i1.rgstatic.net/publication/288416435_C_Programming_and_Data_Structures/links/5680e21008ae1e63f1eb19e7/largepreview.png",
+      "Price": "50$"
+      
   
       },
     {
-      "id": 5,
-      "name": "Machine Chest fly",
-      "description": "The fly machine is ideal for increasing chest strength and muscle mass by targeting the pectoralis muscles.Machine flyes are easier on the joints and provide a more disciplined form than Dumbbell flyes." ,
-      "image": "http://photos.demandstudios.com/getty/article/99/120/513437656_XS.jpg",
-      "Age" : "20-30",
-      "Time": 25
-  
+      "id": "05",
+      "name": "Introduction to PHP & MYSQL",
+      "description": "PHP is the most popular scripting language for web development. It is free, open source and server-side (the code is executed on the server). MySQL is a Relational Database Management System (RDBMS) that uses Structured Query Language (SQL)." ,
+      "image": "https://media.onlinecoursebay.com/2019/03/14003404/915296_eaf2_3.jpg",
+      "Price": "10$"
       },
     {
-      "id": 6,
-      "name": "Seated cable row",
-      "description": "Seated cable rows increase upper-body strength by activating multiple muscle groups throughout the body, including back muscles like the latissimus dorsi in your middle back  and the lower trapezius." ,
-      "image": "https://legionathletics.com/wp-content/uploads/2022/06/seatedcablerow-2.jpg",
-      "Age" : "20-30",
-      "Time": 20
+      "id": "06",
+      "name": "Introduction to HTML & CSS",
+      "description": "HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices." ,
+      "image": "https://www.sololearn.com/Uploads/html-css.jpg",
+      "Price": "20$"
   
       }
   ]

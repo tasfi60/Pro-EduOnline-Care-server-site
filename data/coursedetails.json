@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "name": "Introduction To Python Programming",
+        "title": "Welcome to Python Programming",
+        "image": "https://files.realpython.com/media/Newbie_Watermarked.a9319218252a.jpg",
+        "description": "This Python course has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this course, you will find yourself at a great level of expertise in Python, from where you can take yourself to the next levels to become a world class Software Engineer.",
+        "title1":"What is Python?",
+        "description1":"Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL).Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation.This course gives a complete understanding of Python programming language starting from basic conceopts to advanced concepts. This course will take you through simple and practical approaches while learning Python Programming language.",
+        "duration": "6 hours",
+        "price":"20$"
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "category_id": "02",
+        "name": "Introduction To C Programming",
+        "title": "Welcome to C Programming",
+        "image": "https://cdnp2.stackassets.com/ea7899f4b3a97995e14734c448cbebb5c3653318/store/5e57580c15b87b98c78bb0becec5dac0c95807a0a7ff53406d145fb98bdc/sale_9382_primary_image_wide.jpg",
+        "description": "C is a general-purpose high level language that was originally developed by Dennis Ritchie for the Unix operating system. It was first implemented on the Digital Eqquipment Corporation PDP-11 computer in 1972.The Unix operating system and virtually all Unix applications are written in the C language. C has now become a widely used professional language for various reasons.",
+        "title1":"Why to use C ?",
+        "description1":"C was initially used for system development work, in particular the programs that make-up the operating system. C was adoped as a system development language because it produces code that runs nearly as fast as code written in assembly language.",
+        "duration": "4 hours",
+        "price": "10$"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "03",
+        "name": "Fundamentals of C++",
+        "title": "Welcome to C++ Programming",
+        "image": "https://i.ytimg.com/vi/RsOEfAYIr0U/maxresdefault.jpg",
+        "description": "C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.Our C++ programming course will guide you to learn C++ programming one step at a time.",
+        "title1":"Why Learn C++?",
+        "description1":"C++ is used to develop games, desktop apps, operating systems, browsers, and so on because of its performance.After learning C++, it will be much easier to learn other programming languages like Java, Python, etc.C++ helps you to understand the internal architecture of a computer, how computer stores and retrieves information.",
+        "duration": "4 hours",
+        "price": "30$"
+    },
+    {
+        "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "category_id": "04",
+        "name": "Programming and Data Structure",
+        "title": "Welcome to Programming with Data Structure",
+        "image": "https://i1.rgstatic.net/publication/288416435_C_Programming_and_Data_Structures/links/5680e21008ae1e63f1eb19e7/largepreview.png",
+        "description": "Data Structure is a way of collecting and organising data in such a way that we can perform operations on these data in an effective way. Data Structures is about rendering data elements in terms of some relationship, for better organization and storage.",
+        "title1":"Why Learn DS?",
+        "description1":"Write optimized and scalable code - Once you have knowledge about different data structures and algorithms, you can determine which data structure and algorithm to choose in various conditions.Effective use of time and memory - Having knowledge about data structures and algorithms will help you write codes that run faster and require less storage.Better job opportunities - Data structures and algorithms questions are frequently asked in job interviews of various organizations including Google, Facebook, and so on.",
+        "duration": "7 hours",
+        "price": "50$"
+    },
+    {
+        "_id": "f06f8cc035b04bd1158e4198281915a4",
+        "category_id": "05",
+        "name": "Introduction to PHP & MYSQL",
+        "title": "Welcome to Basic PHP & MYSQL",
+        "image": "https://media.onlinecoursebay.com/2019/03/14003404/915296_eaf2_3.jpg",
+        "description": "PHP will work with virtually all database software, including Oracle and Sybase but most commonly used is freely available MySQL database.PHP is the most popular scripting language for web development. It is free, open source and server-side (the code is executed on the server). MySQL is a Relational Database Management System (RDBMS) that uses Structured Query Language (SQL). It is also free and open source.",
+        "title1":"why learn PHP & MYSQL?",
+        "description1":"PHP is one of the most widely-used scripting languages around, and this course will help you master the basics of the language so that you can build your own website, or help refine your company's. Discover the power of PHP as you take your website development skills to the next level.",
+        "duration": "7 hours",
+        "price": "10$"
+    },
+    {
+        "_id": "cd2b53655737cc4077542baea9f8f75d",
+        "category_id": "06",
+        "name": "Introduction to HTML & CSS",
+        "title": "Welcome to Basic HTML & CSS",
+        "image": "https://www.sololearn.com/Uploads/html-css.jpg",
+        "description": "At the heart of any general website or web page are lines of code in HTML and CSS. HTML, the web development language to render content and CSS, which styles the content.",
+        "title1":"why learn HTML & CSS?",
+        "description1":"Learning how to code allows you to bring out your personality on your own website, enables you to stand out from the crowd, contribute to projects better, helps you understand and explore other languages and provides you with an opportunity to transition into a different career.",
+        "duration": "6 hours",
+        "price": "20$"
+    }
+]
